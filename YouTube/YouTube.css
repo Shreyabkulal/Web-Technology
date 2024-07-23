@@ -1,0 +1,185 @@
+.video {
+    display: flex;
+}
+
+.left,
+.right {
+    flex: 1;
+    padding: 20px;
+}
+
+.a,
+.b,
+.c,
+.d,
+.e {
+    flex: 2;
+    margin-top: -26px;
+    /* padding: 10px 20px; */
+    padding: 1px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.light {
+    color: rgb(157, 154, 154);
+    font-size: smaller;
+}
+
+.content {
+    font-family: "Roboto", "Arial", sans-serif;
+    flex: 1;
+    padding: 10px;
+}
+
+.yImage{
+    cursor: pointer;
+}
+
+.v {
+    border-radius: 15;
+}
+
+.input {
+    border-radius: 25px;
+    width: 70vh;
+    height: 5vh;
+    font-size: 16px;
+    /* padding: 10px; */
+}
+
+.inputd {
+    margin-left: 40vh;
+    margin-top: 5vh;
+}
+
+.mic {
+
+    margin-top: -5.5vh;
+    margin-left: 115vh;
+}
+
+.create {
+    margin-top: -3.5vh;
+    margin-left: 150vh;
+    /* cursor: pointer; */
+}
+
+.bell {
+    margin-top: -4vh;
+    margin-left: 157vh;
+    cursor: pointer;
+}
+
+.photo {
+    margin-top: -5vh;
+    margin-left: 165vh;
+}
+
+.head {
+    display: flex;
+    align-items: center;
+}
+
+.icons {
+
+    font-size: 40px;
+    line-height: 1;
+    letter-spacing: normal;
+    text-transform: none;
+    display: inline-block;
+}
+
+.shareButton {
+    display: flex;
+    align-items: center;
+    border-radius: 50px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    /* margin-left: 10px */
+}
+
+.shareIcon {
+    height: 4vh;
+    width: 5vh;
+    margin-right: 10px;
+}
+
+.likeDislikeButton{
+    display: flex;
+    align-items: center;
+    border-radius: 50px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    /* margin-left: 30px; */
+    
+}
+
+.like{
+    height: 4vh;
+    width: 5.5gvh;
+    /* margin-right: 10px; */
+} 
+
+ .dislike{
+    height: 4vh;
+    width: 5.5gvh;
+    margin-right: -10px;
+}
+
+.subscribe{
+ cursor: pointer;
+}
+
+.downButton {
+    display: flex;
+    align-items: center;
+    border-radius: 50px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    /* margin-left: 80px; */
+}
+
+.downIcon {
+    height: 4vh;
+    width: 5vh;
+    margin-right: 10px;
+}
+
+.kan {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+
+.Anand {
+    margin-right: 20px;
+}
+
+.logoImg {
+    height: 5vh;
+    width: 5vh;
+    border-radius: 200px;
+}
+
+p {
+    margin: 0;
+    font-size: 1rem;
+    
+}
+
+
+
+
+
+
+
+
+
